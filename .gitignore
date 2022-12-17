@@ -1,0 +1,6 @@
+testdemo/out/
+testdemo/.idea/
+testdemo/.idea_modules/
+testdemo/*.iml
+testdemo/*.ipr
+testdemo/*.iws
